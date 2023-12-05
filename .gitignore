@@ -1,0 +1,9 @@
+a.out
+zig-cache
+zig-out
+*.elf
+*.a
+*.o
+*~
+shell.nix
+.envrc
