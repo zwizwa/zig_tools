@@ -1,4 +1,5 @@
 .PHONY: all clean
+.SECONDARY:
 all: main.elf
 	./main.elf
 
